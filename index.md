@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/The-Inter-Webs/the-inter-webs.github.io/blob/ea355c16f159a88c96e61eb1d03c1e198f9b920c/docs/Assets/logo.png" width="25%" />
+  <img src="https://github.com/The-Inter-Webs/the-inter-webs.github.io/blob/ea355c16f159a88c96e61eb1d03c1e198f9b920c/docs/Assets/logo.png" alt="Logo" width="25%" />
 </p>
 <h1 align="center" id="top">Learning Resources</h1>
 <h2 align="center" id="toc">Table Of Contents</h2>
